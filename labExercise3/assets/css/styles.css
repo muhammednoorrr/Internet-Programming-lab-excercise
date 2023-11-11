@@ -1,0 +1,15 @@
+.button1{
+    padding :10px;
+    background-color:#4267B2;
+    color:white;
+    border: 1px;
+    border-radius:7%;
+
+}
+.button2{
+    padding :10px;
+    background-color:aliceblue;
+    color:gray;
+    border : 1px;
+    border-radius:7%;
+}
