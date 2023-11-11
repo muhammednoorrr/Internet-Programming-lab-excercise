@@ -1,0 +1,55 @@
+*{
+    list-style: none;
+    text-decoration: none;
+    padding: 0px;
+    
+
+}
+
+body{
+    background-image: url(/assets/images/bullseye.png);
+    background-color: #d2dc9d;
+    font-family: Georgia, serif;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#header{
+    text-align: center;
+    text-decoration: none;
+    background-color:rgba(255,255,255,0.5);
+    opacity: 0.5;
+    width: 100%;
+    margin:auto;
+}
+#mm{
+    background-image: url(/assets/images/purpledot.png);
+    height: 38px;
+}
+h1{
+    color: #993399;
+}
+
+ul a{
+    color: #c700f2;
+}
+h2{
+    letter-spacing: 0.5cqmax;
+    text-transform: uppercase;
+    color: #cc6600;
+    margin-left: 40%;
+}
+p{
+    font-style: italic;
+}
+h2+p{
+    margin-left: 20%;
+}
+dt{
+    font-weight: bold;
+}
+span{
+    font-weight: bold;
+}
+a{
+    color: #937393;
+}
